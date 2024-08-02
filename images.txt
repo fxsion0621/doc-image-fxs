@@ -1,1 +1,1 @@
-openwrt-aarch64
+openwrt 23.05.3
