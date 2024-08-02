@@ -1,1 +1,1 @@
-ophub/openwrt-aarch64:latest
+openwrt-aarch64
